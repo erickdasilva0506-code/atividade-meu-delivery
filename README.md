@@ -5,4 +5,4 @@
 - **Data de Entrega:** [14/10/26]
 
 ---
-**Professor responsável:** @eduardo97mendes# Atividade meu delivery
+**Professor responsável:** @eduardo97mendes
